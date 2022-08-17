@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Qimin Zhang \n (张琪敏)"
   avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              :  "Ph.D. candidate in CSE department "
   location         : "Pittsburgh, PA"
-  employer         :
+  employer         : "The Pennsylvania State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gdZNUb0AAAAJ"
   email            :
