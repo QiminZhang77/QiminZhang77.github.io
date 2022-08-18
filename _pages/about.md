@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Brief Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ I am a fourth-year Ph.D. candidate in Computer Science at [The Pennsylvania Stat
 
 Research
 ======
-My research interests lie in algorithm design and machine learning, and particularly their applications in healthcare and medical diagnosis.Currently I am working on designing algorithms and developing softwares for the following research topics:
+My research interests lie in algorithm design and machine learning, and particularly their applications in healthcare and medical diagnosis. Also, I am interested in designing machine learning models for resource allocation in high throughput computing since I realized that many bioinformatics workflows consists of hundreds or thousands of tasks that vary from short serial tasks to very large parallel tasks. Currently I am working on designing algorithms and developing softwares for the following research topics:
 - transcriptome assembly
 - single-cell RNA-seq data analysis
 - assembly with spatial transcriptomic data 
