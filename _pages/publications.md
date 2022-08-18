@@ -42,6 +42,6 @@ Talks
 ======
 * **Accurate assembly of multi-end RNA-seq data with Scallop2** <br />
 **Qimin Zhang**, Qian Shi, Mingfu Shao <br />
-<em>International Society for Computational Biology (ISMB),  HitSeq COSI</em>, 2022<br />
+<em>International Conference on Intelligent Systems for Molecular Biology (ISMB),  HitSeq COSI</em>, 2022<br />
 [[Slides]](https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/qqz5133_psu_edu/EWe5oVO2hPlPiKcQzxQuHAsBF9QuuX5Dv0tnjxlv2uEH4A?e=SNs476)
 [[Software]](https://github.com/Shao-Group/scallop2)<br />
