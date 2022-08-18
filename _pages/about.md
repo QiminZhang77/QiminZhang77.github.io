@@ -15,14 +15,13 @@ Research
 My research interests lie in algorithm design and machine learning, and particularly their applications in healthcare and medical diagnosis. Currently I am working on designing algorithms and developing softwares for the following research topics:
 - transcriptome assembly
 - single-cell RNA-seq data analysis
-- assembly with spatial transcriptomic data
+- assembly with spatial transcriptomic data\
 
 Software
 ======
-**Scallop2** is a reference-based transcriptome assembler that enables accurate assembly of transcriptomes at single-cell resolution (with Smart-seq3 data) and bulk level (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and developed using C++. Scallop2 has been published at [Nature Computational Science](rdcu.be/cJ0Oa).
+**Scallop2** is a reference-based transcriptome assembler that enables accurate assembly of transcriptomes at single-cell resolution (with Smart-seq3 data) and bulk level (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and developed using C++. Scallop2 has been published at [Nature Computational Science](rdcu.be/cJ0Oa).\
 
 Contact
 ======
-W205, Westgate Building, The Pennsylvania State University, University Park, PA 16802
-
+W205, Westgate Building, The Pennsylvania State University, University Park, PA 16802 \
 Email: qqz5133@psu.edu
