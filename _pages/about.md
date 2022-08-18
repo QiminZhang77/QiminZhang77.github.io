@@ -19,7 +19,7 @@ My research interests lie in algorithm design and machine learning, and particul
 
 Software
 ======
-**Scallop2** is a reference-based transcriptome assembler that enables accurate assembly of transcriptomes at single-cell resolution (with Smart-seq3 data) and bulk level (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and developed using C++. Scallop2 has been published at [Nature Computational Science](rdcu.be/cJ0Oa). 
+**Scallop2** is a reference-based transcriptome assembler that enables accurate assembly of transcriptomes at single-cell resolution (with Smart-seq3 data) and bulk level (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and developed using C++. Scallop2 has been published at [Nature Computational Science](https://rdcu.be/cJ0Oa). 
 
 Contact
 ======
