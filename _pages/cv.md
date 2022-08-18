@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +8,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  * **Data Science Summer Intern** \
+  [Labcorp](https://www.labcorp.com/), May 2022 - Aug 2022 \
+  remote, Pittsburgh, PA \
+  **Roles & Projects:**
+    - Predict gut metabolites from gut microbiome data using machine learning:
+      + Developed highly accurate data pipelines to predict gut metabolites and metagenome functions from gut microbiome data
+      + Explored combination of parameters of feature selection to increase accuracy
+      + Managed to work on a Colorectal Cancer dataset and achieved all metabolites well predicted (using Spearman correlation coefficient as the metric)
+    - AWS resource access control:
+      + Developed a web application to enable the AWS resource access control and deployed to ECS
+      + Developed on service end to create IAM roles to access AWS resource (S3 and Dynamodb)
+      + Developed on front end to implement the user interface
+      
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* CMPSC-465-FA20, Data Structures and Algorithms
+* CMPSC-465-SP22, Data Structures and Algorithms
+
+Services
 ======
-* Currently signed in to 43 different slack teams
+Conference reviewer:
+* RECOMB 2022, 2021
+* ISMB/ECCB 2022, 2021, 2020
+* WABI 2021
+* ACM-BCB 2020
+* APBC 2020
