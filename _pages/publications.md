@@ -10,7 +10,7 @@ Publications
 * **Accurate assembly of multi-end RNA-seq data with Scallop2** <br />
 **Qimin Zhang**, Qian Shi, Mingfu Shao <br />
 <em>Nature Computational Science</em>, 2022<br />
-[[Free version]](rdcu.be/cJ0Oa)
+[[Free version]](https://rdcu.be/cJ0Oa)
 [[Software]](https://github.com/Shao-Group/scallop2)<br />
 
 * **Reduction of workflow resource consumption using a density-based clustering model** <br />
