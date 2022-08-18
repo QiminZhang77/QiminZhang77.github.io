@@ -20,13 +20,14 @@ Work experience
       + Managed to work on a Colorectal Cancer dataset and achieved all metabolites well predicted (using Spearman correlation coefficient as the metric)
     - AWS resource access control:
       + Developed a web application to enable the AWS resource access control and deployed to ECS
-      + Developed on service end to create IAM roles to access AWS resource (S3 and Dynamodb)
+      + Developed on service end to create IAM roles to access AWS resource (S3 and DynamoDB)
       + Developed on front end to implement the user interface
       
 Teaching
 ======
-* CMPSC-465-FA20, Data Structures and Algorithms
-* CMPSC-465-SP22, Data Structures and Algorithms
+I have been TA for the following courses:
+* CMPSC-465, Data Structures and Algorithms, Fall 2020
+* CMPSC-465, Data Structures and Algorithms, Spring 2022
 
 Services
 ======
