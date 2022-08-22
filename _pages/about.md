@@ -12,16 +12,16 @@ I am a fourth-year Ph.D. candidate in Computer Science at [The Pennsylvania Stat
 
 Research
 ======
-My research interests lie in algorithm design and machine learning, and particularly their applications in healthcare and diagnostics. Also, I am interested in designing machine learning models for resource allocation in high throughput computing since I realized that many bioinformatics workflows consists of hundreds or thousands of tasks that vary from short serial tasks to very large parallel tasks. 
+My research interests lie in **algorithm design** and **machine learning**, and particularly their applications in healthcare and diagnostics. Also, I am interested in designing machine learning models for resource allocation in high throughput computing since I realized that many bioinformatics workflows consists of hundreds or thousands of tasks that vary from short serial tasks to very large parallel tasks. 
 
-Currently I am working on designing algorithms and developing softwares for the following research topics:
+Currently I am working on **designing algorithms** and **developing softwares** for the following research topics:
 - transcriptome assembly
 - single-cell RNA-seq data analysis
 - assembly with spatial transcriptomic data 
 
 Software
 ======
-**Scallop2** is a reference-based transcriptome assembler that enables accurate assembly of transcriptomes at single-cell resolution (with Smart-seq3 data) and bulk level (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and developed using C++. Scallop2 has been published at [Nature Computational Science](https://rdcu.be/cJ0Oa). 
+Open source software **Scallop2** is an improved reference-based transcriptome assembler that enables accurate assembly of transcriptomes at both **single-cell resolution** (with Smart-seq3 data) and **bulk level** (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and developed using C++. Scallop2 has been published at [Nature Computational Science](https://rdcu.be/cJ0Oa). 
 
 Contact
 ======
