@@ -33,6 +33,11 @@ Yan Shi, Guoliang Wang, Jinglong Niu, **Qimin Zhang**, Maolin Cai, Baoqing Sun, 
 <em>International Conference on Mechatronics and Intelligent Robotics (ICMIR)</em>, 2017<br />
 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-65978-7_76)
 
+* **Research on Gait and Control of Bionic Hexapod Robot** <br />
+Jieru Zhao, Yang Li, **Qimin Zhang**, Zhongcai Pei <br />
+<em>Proceedings of the 2017 International Conference on Artificial Intelligence, Automation and Control Technologies</em>, 2017<br />
+[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3080845.3080869)
+
 * **Modeling and attitude control of bi-copter** <br />
 **Qimin Zhang**, Zihe Liu, Jieru Zhao, Shuguang Zhang <br />
 <em>IEEE International Conference on Aircraft Utility Systems (AUS)</em>, 2016<br />
@@ -44,4 +49,10 @@ Talks
 **Qimin Zhang**, Qian Shi, Mingfu Shao <br />
 <em>International Conference on Intelligent Systems for Molecular Biology (ISMB),  HitSeq COSI</em>, 2022<br />
 [[Slides]](https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/qqz5133_psu_edu/EWe5oVO2hPlPiKcQzxQuHAsBF9QuuX5Dv0tnjxlv2uEH4A?e=SNs476)
+[[Software]](https://github.com/Shao-Group/scallop2)<br />
+
+* **Accurate assembly of multi-end RNA-seq data with Scallop2** <br />
+**Qimin Zhang** <br />
+<em>Center for Computational Biology and Bioinformatics, Penn State University</em>, 2022<br />
+[[Slides]](https://pennstateoffice365-my.sharepoint.com/:p:/g/personal/qqz5133_psu_edu/EZzdYC_VuylLgdRxw-UjMtEBNadEwPSnqIqZHFvpDxQaqw?e=6lf8GM)
 [[Software]](https://github.com/Shao-Group/scallop2)<br />
