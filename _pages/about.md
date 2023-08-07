@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in Computer Science at [The Pennsylvania State University](https://www.psu.edu/). I am honored to be advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). I received my Master degree in Computer Technology from [University of Chinese Academy of Sciences](https://english.cas.cn/) in 2019 and I got my Bachelor degree in Aircraft Airworthiness and Applied Mathematics (minor) from [Beihang University](https://ev.buaa.edu.cn/) in 2016. My CV is [here](http://QiminZhang77.github.io/files/QiminZhang_resume.pdf).
+I am a 5th-year Ph.D. candidate in Computer Science at [The Pennsylvania State University](https://www.psu.edu/). I am honored to be advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). I received my Master degree in Computer Technology from [University of Chinese Academy of Sciences](https://english.cas.cn/) in 2019 and I got my Bachelor degree in Aircraft Airworthiness and Applied Mathematics (minor) from [Beihang University](https://ev.buaa.edu.cn/) in 2016. My CV is [here](http://QiminZhang77.github.io/files/QiminZhang_resume.pdf).
 
 Research
 ======
