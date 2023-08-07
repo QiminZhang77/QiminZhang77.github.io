@@ -6,10 +6,16 @@ author_profile: true
 
 Publications
 ======
+* **Transcript Assembly and Annotations: Bias and Adjustment** <br />
+**Qimin Zhang**, Mingfu Shao <br />
+<em> Poster Session of 23th Int’l Workshop on Algorithms in Bioinformatics (WABI)</em>, 2023<br />
+[[PDF]](https://www.biorxiv.org/content/10.1101/2023.04.20.537700v1)
+
 
 * **Accurate assembly of multi-end RNA-seq data with Scallop2** <br />
 **Qimin Zhang**, Qian Shi, Mingfu Shao <br />
 <em>Nature Computational Science</em>, 2022<br />
+<em>International Conference on Intelligent Systems for Molecular Biology (ISMB),  HitSeq COSI</em>, 2022<br />
 [[Free version]](https://rdcu.be/cJ0Oa)
 [[Software]](https://github.com/Shao-Group/scallop2)<br />
 
