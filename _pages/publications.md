@@ -8,9 +8,9 @@ Publications
 ======
 * **Transcript Assembly and Annotations: Bias and Adjustment** <br />
 **Qimin Zhang**, Mingfu Shao <br />
-<em> Poster Session of 23th Int’l Workshop on Algorithms in Bioinformatics (WABI)</em>, 2023<br />
-[[PDF]](https://www.biorxiv.org/content/10.1101/2023.04.20.537700v1)
-
+<em> PLOS Computational Biology</em>, 2023<br />
+[[PDF]](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011734&type=printable)
+[[DOI]](https://doi.org/10.1371/journal.pcbi.1011734)
 
 * **Accurate assembly of multi-end RNA-seq data with Scallop2** <br />
 **Qimin Zhang**, Qian Shi, Mingfu Shao <br />
