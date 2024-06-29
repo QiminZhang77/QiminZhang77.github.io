@@ -22,6 +22,7 @@ Currently I am working on **designing algorithms** and **developing softwares** 
 Software
 ======
 Open source software **Scallop2** is an improved reference-based transcriptome assembler that enables accurate assembly of transcriptomes at both **single-cell resolution** (with Smart-seq3 data) and **bulk level** (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and [bioconda](https://anaconda.org/bioconda/scallop2). Scallop2 has been published at [Nature Computational Science](https://rdcu.be/cJ0Oa). 
+
 Open source software **Aletsch** implements an efficient algorithm to assemble multiple RNA-seq samples (or multiple cells for single-cell RNA-seq data). Software is available at [github](https://github.com/Shao-Group/aletsch/) and [bioconda](https://anaconda.org/bioconda/aletsch). Alestch has been accepcted by ISMB 2024 and published at [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i307/7700882?searchresult=1). 
 
 Contact
