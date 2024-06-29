@@ -21,7 +21,7 @@ Currently I am working on **designing algorithms** and **developing softwares** 
 
 Software
 ======
-Developed open-source software and tools, such as Scallop2, irtool and Aletsch, have \textbf{over 15,000 downloads} in Bioconda, and the number is actively increasing.
+Developed open-source software and tools, such as Scallop2, irtool and Aletsch, have **over 15,000 downloads** in Bioconda, and the number is actively increasing.
 
 Open source software **Scallop2** is an improved reference-based transcriptome assembler that enables accurate assembly of transcriptomes at both single-cell resolution (with Smart-seq3 data) and bulk level (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and [bioconda](https://anaconda.org/bioconda/scallop2). Scallop2 has been published at [Nature Computational Science](https://rdcu.be/cJ0Oa). 
 
