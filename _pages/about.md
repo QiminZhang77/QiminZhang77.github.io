@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year Ph.D. candidate in Computer Science at [The Pennsylvania State University](https://www.psu.edu/). I am honored to be advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). I received my Master degree in Computer Technology from [University of Chinese Academy of Sciences](https://english.cas.cn/) in 2019 and I got my Bachelor degree in Aircraft Airworthiness and Applied Mathematics (minor) from [Beihang University](https://ev.buaa.edu.cn/) in 2016. My CV is [here](http://QiminZhang77.github.io/files/QiminZhang_CV2024.pdf).
+I received my Ph.D. degree in Computer Science at [The Pennsylvania State University](https://www.psu.edu/). I am honored to be advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). I received my Master degree in Computer Technology from [University of Chinese Academy of Sciences](https://english.cas.cn/) in 2019 and I got my Bachelor degree in Aircraft Airworthiness and Applied Mathematics (minor) from [Beihang University](https://ev.buaa.edu.cn/) in 2016. My CV is [here](http://QiminZhang77.github.io/files/QiminZhang_CV2024.pdf).
 
 Research
 ======
@@ -21,7 +21,8 @@ Currently I am working on **designing algorithms** and **developing softwares** 
 
 Software
 ======
-Open source software **Scallop2** is an improved reference-based transcriptome assembler that enables accurate assembly of transcriptomes at both **single-cell resolution** (with Smart-seq3 data) and **bulk level** (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and developed using C++. Scallop2 has been published at [Nature Computational Science](https://rdcu.be/cJ0Oa). 
+Open source software **Scallop2** is an improved reference-based transcriptome assembler that enables accurate assembly of transcriptomes at both **single-cell resolution** (with Smart-seq3 data) and **bulk level** (with Illumina paired-end data). Software is available at [github](https://github.com/Shao-Group/scallop2) and [bioconda](https://anaconda.org/bioconda/scallop2). Scallop2 has been published at [Nature Computational Science](https://rdcu.be/cJ0Oa). 
+Open source software **Aletsch** implements an efficient algorithm to assemble multiple RNA-seq samples (or multiple cells for single-cell RNA-seq data). Software is available at [github](https://github.com/Shao-Group/aletsch/) and [bioconda](https://anaconda.org/bioconda/aletsch). Alestch has been accepcted by ISMB 2024 and published at [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i307/7700882?searchresult=1). 
 
 Contact
 ======
