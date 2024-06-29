@@ -10,7 +10,15 @@ redirect_from:
 
 Work experience
 ======
-  * **Data Science Summer Intern** \
+  * **Senior Bioinformatics Specialist** \
+  [Labcorp](https://www.labcorp.com/), July 2023 - present \
+  remote, Pittsburgh, PA \
+  **Roles & Projects:**
+    - Developed computational methods and pipelines for virus subtyping and strain-level identification from the metagenomics samples
+    - Developed and re-engineering the data structure and algorithms of tools and software to provides verbose log, improve accuracy, and reduce computational cost
+    - Developed pipeline for metabolomic pathway prediction from microbiome sequencing data- using statistical and machine learning methods, focusing on the discovery of biomarkers related to women's health diseases.
+
+  * **Data Science / Bioinformatics Summer Intern** \
   [Labcorp](https://www.labcorp.com/), May 2022 - Aug 2022 \
   remote, Pittsburgh, PA \
   **Roles & Projects:**
@@ -32,8 +40,12 @@ I have been TA for the following courses:
 Services
 ======
 Conference reviewer:
-* RECOMB 2022, 2021
+* RECOMB 2024, 2023, 2022, 2021
 * ISMB/ECCB 2022, 2021, 2020
 * WABI 2021
-* ACM-BCB 2020
+* ACM-BCB 2020, 2022
 * APBC 2020
+
+Journal reviewer:
+* Heliyon
+* Biochemical Genetics
