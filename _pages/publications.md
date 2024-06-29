@@ -6,6 +6,17 @@ author_profile: true
 
 Publications
 ======
+* **A program for real-time surveillance of SARS-CoV-2 genetics** <br />
+Brochu, Hayden N., Kuncheng Song, **Qimin Zhang**, Qiandong Zeng, Adib Shafi et al. <br />
+<em> medRxiv</em>, 2024<br />
+[[DOI]](https://doi.org/10.1101/2024.04.18.24306026)
+
+* **Accurate assembly of multiple RNA-seq samples with Aletsch** <br />
+Qian Shi, **Qimin Zhang**, Mingfu Shao <br />
+<em> Bioinformatics</em>, 2024<br />
+<em> International Conference on Intelligent Systems for Molecular Biology (ISMB), 2024<br />
+[[DOI]](https://doi.org/10.1093/bioinformatics/btae215)
+
 * **Transcript Assembly and Annotations: Bias and Adjustment** <br />
 **Qimin Zhang**, Mingfu Shao <br />
 <em> PLOS Computational Biology</em>, 2023<br />
@@ -15,7 +26,7 @@ Publications
 * **Accurate assembly of multi-end RNA-seq data with Scallop2** <br />
 **Qimin Zhang**, Qian Shi, Mingfu Shao <br />
 <em>Nature Computational Science</em>, 2022<br />
-<em>International Conference on Intelligent Systems for Molecular Biology (ISMB),  HitSeq COSI</em>, 2022<br />
+<em>International Conference on Intelligent Systems for Molecular Biology (ISMB),  HitSeq COSI</em>, 2022 <br />
 [[Free version]](https://rdcu.be/cJ0Oa)
 [[Software]](https://github.com/Shao-Group/scallop2)<br />
 
