@@ -18,6 +18,7 @@ Work experience
     - Developed and re-engineering the data structure and algorithms of tools and software to provides verbose log, improve accuracy, and reduce computational cost
     - Developed pipeline for metabolomic pathway prediction from microbiome sequencing data- using statistical and machine learning methods, focusing on the discovery of biomarkers related to women's health diseases.
 
+
   * **Data Science / Bioinformatics Summer Intern** \
   [Labcorp](https://www.labcorp.com/), May 2022 - Aug 2022 \
   remote, Pittsburgh, PA \
